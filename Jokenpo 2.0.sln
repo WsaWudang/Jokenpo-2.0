@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32228.343
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Jokenpo 2.0", "Jokenpo 2.0.pyproj", "{9877B22F-CE0C-4DDD-968B-BDFDBE437B76}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9877B22F-CE0C-4DDD-968B-BDFDBE437B76}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9877B22F-CE0C-4DDD-968B-BDFDBE437B76}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1208BD2-E257-460B-AF51-E8C57C63050F}
+	EndGlobalSection
+EndGlobal
